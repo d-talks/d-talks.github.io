@@ -1,0 +1,14 @@
+{
+    "site": {
+        "title": "D Talks",
+        "description": "D Talks"
+    },
+    "pages": {
+        "index": {
+            "title": "",
+            "description": "",
+            "stylesheets": [ "main" ],
+            "scripts": [ "main" ]
+        }
+    }
+}
