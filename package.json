@@ -1,0 +1,24 @@
+{
+    "name": "d-talks.github.io",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "gulp",
+        "clean": "gulp clean"
+    },
+    "repository": "git@github.com:d-talks/d-talks.github.io.git",
+    "author": "fifthsage <fifthsage@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "eslint": "^5.16.0",
+        "eslint-config-standard": "^12.0.0",
+        "eslint-plugin-html": "^5.0.3",
+        "eslint-plugin-import": "^2.17.2",
+        "eslint-plugin-node": "^8.0.1",
+        "eslint-plugin-promise": "^4.1.1",
+        "eslint-plugin-standard": "^4.0.0",
+        "gulp": "^4.0.0",
+        "gulp-nunjucks-render": "^2.2.3",
+        "nunjucks": "^3.2.0"
+    }
+}
